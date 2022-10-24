@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/brandonstone/Workspace/hardhat-smartcontract-lottery/contracts/Raffle.sol": {
-      "lastModificationDate": 1666497299701,
-      "contentHash": "03311bae24e88d746aa5168b7ac04da9",
+      "lastModificationDate": 1666646857796,
+      "contentHash": "c74d742777b336c4acf412f1d706bd3d",
       "sourceName": "contracts/Raffle.sol",
       "solcConfig": {
         "version": "0.8.17",
